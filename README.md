@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OsamaElshimy1973
+- 👋 Hi, I’m Osama Elshimy
 - 👀 I’m interested in building usefull applications to solve real world problems
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on this field
